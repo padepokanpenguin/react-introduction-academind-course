@@ -28,7 +28,7 @@ const ExpenseForm = () =>  {
 
   const dateChangeHandler = (event) => {
      setUserInput({
-       ...UserInput,
+       ...userInput,
        enteredDate: '',
      })
   }
