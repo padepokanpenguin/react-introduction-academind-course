@@ -23,7 +23,7 @@
   transition: all .3s ease-out;
 }
 
-.chart-bar__lable {
+.chart-bar__label {
   font-weight: bold;
   font-size: .5rem;
   text-align: center;
